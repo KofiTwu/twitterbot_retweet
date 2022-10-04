@@ -8,7 +8,7 @@ A sample Twitter bot in Python - that retweets based on a hashtag
 ### How to install Tweepy
 
 First, check your Python version with ``python3 --version`` or ``python --version`` on console (terminal/shell/command prompt).
-Twwepy==3.7 was used for this project
+Tweepy==3.7 was used for this project
 
 
 #### If you have Python 3.x, you can just run:
